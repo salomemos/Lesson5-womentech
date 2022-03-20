@@ -1,0 +1,116 @@
+header {
+    height: 50px;
+    background-color: #F6F8F9;
+    margin-bottom: 25px;
+}
+.logo {
+    padding: 18px 92px 18px 20px;
+    display: inline-block;
+    vertical-align: middle;
+}
+nav {
+    display: inline-block;
+    vertical-align: middle;
+}
+.anav {
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 27px;
+    color: #969798;
+    font-family: 'Helvetica';
+    font-size:  11px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+.active {color: black;}
+.photo {
+    margin-left: 13px;
+}
+/* body */
+body{
+    background-color: #F6F8F9;
+}
+section {
+    width: 1160px;
+    margin: 0 auto 58px auto;
+}
+h2 {
+    margin-bottom: 40px;
+    font-family: 'Helvetica';
+    font-size: 24px;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: black;
+}
+.first-box {
+    position: relative;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 40px;
+}
+.sec-box {
+    position: relative;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 40px;
+}
+.last-box {
+    position: relative;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.context {
+    background-color: white;
+    font-size: 13px;
+    padding: 66px 40px;
+    width: 360px;
+    color:#A6ADB4;
+    font-family: 'Acumin Pro';
+    line-height: 23px;
+}
+.img-text {
+    font-family: 'Helvetica';
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    position: absolute;
+    top: 28px;
+    left: 40px;
+}
+.wrapper-left {
+    width: 760px;
+    position: relative;
+    display: inline-block;
+    vertical-align: top;
+}
+.image {
+    margin-bottom: 40px;
+}
+.img-text2 {
+    font-family: 'Helvetica';
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    position: absolute;
+    bottom: 490px;
+    right: 20px;
+}
+.wrapper-right {
+    display: inline-block;
+    vertical-align: top;
+    width: 360px;
+    margin-left: 40px;
+    position: relative;
+}
+.right-img {margin-bottom: 102px;}
+
+.img-text2-right {
+    font-family: 'Helvetica';
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    position: absolute;
+    top: 18px;
+    left: 40px;
+}
